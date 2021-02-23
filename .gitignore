@@ -62,3 +62,4 @@ jest_coverage
 /ios/Pods/
 
 android/app/avtstructura.keystore
+android/gradle.properties
