@@ -63,3 +63,5 @@ jest_coverage
 
 android/app/avtstructura.keystore
 android/gradle.properties
+
+app-release.apk
